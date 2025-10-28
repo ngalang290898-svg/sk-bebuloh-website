@@ -1,0 +1,57 @@
+[
+  {
+    "teacher_id": "efe09a03",
+    "name": "AHMAD NASUHA BIN MOHAMAD IZANI",
+    "role": "Teacher",
+    "departments": "English Department",
+    "bio_en": "AHMAD is a dedicated educator in the English Department, bringing energy and care to the classroom.",
+    "bio_ms": "AHMAD adalah seorang pendidik berdedikasi di English Department, membawa tenaga dan perhatian dalam bilik darjah.",
+    "traits": "",
+    "photo_url": "",
+    "hod_photo_url": ""
+  },
+  {
+    "teacher_id": "b303fe76",
+    "name": "CHARISSA LEE PIT YING",
+    "role": "Teacher",
+    "departments": "English Department",
+    "bio_en": "CHARISSA is a dedicated educator in the English Department, bringing energy and care to the classroom.",
+    "bio_ms": "CHARISSA adalah seorang pendidik berdedikasi di English Department, membawa tenaga dan perhatian dalam bilik darjah.",
+    "traits": "",
+    "photo_url": "",
+    "hod_photo_url": ""
+  },
+  {
+    "teacher_id": "6325c521",
+    "name": "FERNANDEZ NGALANG DOUGLAS ANAK UNYAT",
+    "role": "Teacher",
+    "departments": "English Department",
+    "bio_en": "FERNANDEZ is a dedicated educator in the English Department, bringing energy and care to the classroom.",
+    "bio_ms": "FERNANDEZ adalah seorang pendidik berdedikasi di English Department, membawa tenaga dan perhatian dalam bilik darjah.",
+    "traits": "",
+    "photo_url": "",
+    "hod_photo_url": ""
+  },
+  {
+    "teacher_id": "35987b35",
+    "name": "NUR KAMILAH BINTI ABDULLAH PHILLIP",
+    "role": "Teacher",
+    "departments": "English Department",
+    "bio_en": "NUR is a dedicated educator in the English Department, bringing energy and care to the classroom.",
+    "bio_ms": "NUR adalah seorang pendidik berdedikasi di English Department, membawa tenaga dan perhatian dalam bilik darjah.",
+    "traits": "",
+    "photo_url": "https://drive.google.com/uc?export=view&id=102Y6Se-ZNwLQao39qflY0CgIHEXp_VHR",
+    "hod_photo_url": ""
+  },
+  {
+    "teacher_id": "0891fe15",
+    "name": "NURUL FARAHIN BINTI GAZER",
+    "role": "Teacher",
+    "departments": "English Department",
+    "bio_en": "NURUL is a dedicated educator in the English Department, bringing energy and care to the classroom.",
+    "bio_ms": "NURUL adalah seorang pendidik berdedikasi di English Department, membawa tenaga dan perhatian dalam bilik darjah.",
+    "traits": "",
+    "photo_url": "",
+    "hod_photo_url": ""
+  }
+]
